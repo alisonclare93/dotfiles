@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alisonclare93@gmail.com
+	name = Alison Clare
